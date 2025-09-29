@@ -1,7 +1,7 @@
 ## Hi there! I'm André👋
 
 
-I'm a Computer Engineer student with experience in backend web development using Laravel and PostgreSQL. I’ve worked with version control tools like Git and GitHub in production-level projects. Currently, I'm learning Swift to expand into mobile development and actively seeking new job opportunities to grow as a software developer.
+I'm a Computer Engineering student with experience in backend web development using Laravel and PostgreSQL. I’ve worked with version control tools like Git and GitHub in production-level projects. Currently, I'm learning Swift to expand into mobile development and actively seeking new job opportunities to grow as a software developer.
 
 ---
 
